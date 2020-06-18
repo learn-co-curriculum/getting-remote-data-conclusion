@@ -12,3 +12,6 @@ data to an API.
 
 With the ability to leverage remote data in our applications, we can increase
 the functionality of our applications or even save time!
+
+### Further reading
+**[https://www.scrapingbee.com/blog/web-scraping-ruby/](Web Scraping with Ruby)**: Create a job tracker with this code-along tutorial, which introduces you to industry-standard tools such as Selenium + headless Chrome.
